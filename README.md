@@ -10,7 +10,6 @@
 # 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sheikh-abd-ullah&show_icons=true&theme=dark&hide_border=false)
 ![GitHub Streak](https://streak-stats.demolab.com?user=sheikh-abd-ullah&theme=dark&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sheikh-abd-ullah&layout=compact&theme=dark&hide_border=false)
 
 ## 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=sheikh-abd-ullah&theme=radical&margin-w=10)
